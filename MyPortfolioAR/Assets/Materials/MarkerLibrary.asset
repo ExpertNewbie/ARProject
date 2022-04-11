@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MarkerLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5142452811489380194
+  m_GuidHigh: 12010473582123365785
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5201518109900050268
+      m_GuidHigh: 2387452788054507184
+    m_SerializedTextureGuid:
+      m_GuidLow: 14840678232986384751
+      m_GuidHigh: 14033347507938060043
+    m_Size: {x: 0.04, y: 0.04}
+    m_SpecifySize: 1
+    m_Name: Dragon_Black
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5566098305216783010
+      m_GuidHigh: 14864580203100187316
+    m_SerializedTextureGuid:
+      m_GuidLow: 11237641287235669082
+      m_GuidHigh: 5459411484234743977
+    m_Size: {x: 0.04, y: 0.04}
+    m_SpecifySize: 1
+    m_Name: Dragon_Blue
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5047243049117289940
+      m_GuidHigh: 13392128028677589908
+    m_SerializedTextureGuid:
+      m_GuidLow: 7544823826539927847
+      m_GuidHigh: 13649234544386871243
+    m_Size: {x: 0.04, y: 0.04}
+    m_SpecifySize: 1
+    m_Name: Dragon_Green
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5458321851106012918
+      m_GuidHigh: 15408423809278345111
+    m_SerializedTextureGuid:
+      m_GuidLow: 17565401656987911888
+      m_GuidHigh: 5950444354165784824
+    m_Size: {x: 0.04, y: 0.04}
+    m_SpecifySize: 1
+    m_Name: Dragon_Red
+    m_Texture: {fileID: 0}
